@@ -1,0 +1,8 @@
+- id: stashOratings
+  name: "Stash+ O Ratings"
+  metadata:
+    description: "Rate and comment on every individual O. Companion plugin for Stash+."
+  version: "1.0.0"
+  date: 2026-11-21 11:51:15
+  path: stashOratings.zip
+  sha256: 4b5bfbefe9b8d9cb4e1783437ba33231731423f73c98956bd77f82acaf7dbb59
