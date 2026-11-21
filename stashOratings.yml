@@ -1,0 +1,7 @@
+name: Stash+ O Ratings
+description: Rate and comment on every individual O. Companion plugin for Stash+.
+version: 1.0.0
+url: https://github.com/stashplus/stashOratings
+ui:
+  javascript:
+    - stashOratings.js
